@@ -1,4 +1,4 @@
-# Android-Mascot-History
+# Android Mascot History
 <p>Exercise from Gustavo Guanabara's HTML and CSS course</p>
 <ul>
     <li>
